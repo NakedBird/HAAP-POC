@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ssh"
     id="741670f3-4b6e-48e4-b025-18de749d20f3">
   <source
       xsi:type="archimate:Device"
