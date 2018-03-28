@@ -455,7 +455,7 @@
       <child xsi:type="archimate:DiagramObject" id="32906584-aa80-4953-94c4-707a81cbeb06" targetConnections="72b1f2a6-fd29-4d56-9c1b-b8a9d03812af 0bdafad7-9d62-4872-b782-28e9e69e7d5e" archimateElement="7b3ac072-2f7c-4d76-9999-bc1bd9b4e318">
         <bounds x="780" y="360" width="144" height="55"/>
       </child>
-      <documentation>Focus on elements which are relevant for POC1</documentation>
+      <documentation>Focus on elements which are relevant to POC1</documentation>
     </element>
   </folder>
 </archimate:model>
