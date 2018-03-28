@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NAT GW"
+    id="20c95f21-f2b1-49f8-8f0a-8e782145e201">
+  <properties
+      key="EIP"
+      value="18.194.237.36"/>
+</archimate:TechnologyService>

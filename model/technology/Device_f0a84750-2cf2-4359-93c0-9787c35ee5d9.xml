@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bastion Host"
+    id="f0a84750-2cf2-4359-93c0-9787c35ee5d9">
+  <properties
+      key="EIP"
+      value="18.197.75.131"/>
+</archimate:Device>
