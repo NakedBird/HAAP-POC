@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audi Users Directory Service (AD)"
+    id="7141a4a3-6d16-48d8-b9b8-5e22b49373fe"
+    documentation="Contains audi users and authentication credentials with permissions to access reports and data."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="App Data Store"
-    id="3525ae51-9f8a-4dfc-be12-8c189df90778"/>
+    name="CAAP Hadoop App Database"
+    id="3525ae51-9f8a-4dfc-be12-8c189df90778"
+    documentation="contains the specific persisted data set (folders and files) and the HIVE tables/schema as well as access permissions based on the Hadoop technology platform."/>
