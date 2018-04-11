@@ -1,4 +1,5 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CAAP Hadoop App2 Database"
-    id="866656d9-6a37-4d1c-8fc8-2967b6db9b51"/>
+    name="CAAP Hadoop App3 Database"
+    id="866656d9-6a37-4d1c-8fc8-2967b6db9b51"
+    documentation="contains the specific persisted data set (folders and files) and the HIVE tables/schema as well as access permissions based on the Hadoop technology platform."/>
