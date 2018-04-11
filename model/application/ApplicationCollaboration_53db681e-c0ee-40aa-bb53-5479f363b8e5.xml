@@ -1,5 +1,5 @@
-<archimate:ApplicationComponent
+<archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CAAP Hadoop App Database"
-    id="3525ae51-9f8a-4dfc-be12-8c189df90778"
+    name="CAAP Hadoop App1 Database"
+    id="53db681e-c0ee-40aa-bb53-5479f363b8e5"
     documentation="contains the specific persisted data set (folders and files) and the HIVE tables/schema as well as access permissions based on the Hadoop technology platform."/>

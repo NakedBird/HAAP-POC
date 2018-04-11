@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overall Technology View"
     id="4b0b710c-7208-48db-9e5d-32700e0fc75c"
-    viewpoint="technology">
+    viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="00bbd10f-0314-4794-a957-87f915ea033e"
