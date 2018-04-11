@@ -123,7 +123,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="a2ac30a8-7901-4cea-87f0-fd0eca4ace17"
-      name="ACDC Data Broker (Kafka)"
+      name="ACDC Data Broker"
       textAlignment="1">
     <bounds
         x="96"
